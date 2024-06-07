@@ -22,7 +22,12 @@ The Crop & Soil Health Report project is designed to help farmers and agricultur
 
 ### Input
 ```plaintext
-I'm planning to grow crops in Punjab, India, this July. The soil in my area is quite alkaline, with a pH level of 8.3. The last crop grown here was wheat. I've noticed some nutrient deficiencies, especially in nitrogen and potassium. There are also areas where the soil seems compacted.
+I'm planning to grow crops in Punjab, India, this July.
+The soil in my area is quite alkaline, with a pH level of 8.3.
+The last crop grown here was wheat.
+I've noticed some nutrient deficiencies, especially in nitrogen and potassium.
+There are also areas where the soil seems compacted.
+```
 
 ### Output
 ```plaintext
@@ -57,3 +62,4 @@ Recommended Crops for the Upcoming Season:
 Based on the analysis of soil and weather conditions, the following crops are recommended for cultivation: cotton, pearl millet, black gram, green gram, or sesame. These crops are chosen for their suitability to the current soil health, expected rainfall, and typical weather patterns in the region.
 
 This report provides actionable insights into soil and environmental conditions, helping stakeholders make informed decisions for successful crop cultivation in Punjab during July.
+```
